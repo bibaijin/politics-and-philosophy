@@ -1,4 +1,4 @@
-filename=论政治中的道德
+filename=论义利观与中国政治
 
 main.pdf:main.tex ref.bib /home/bibaijin/share/format/xetex.tex
 	xelatex main.tex
