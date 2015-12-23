@@ -1,6 +1,6 @@
 filename=读《君主论》有感
 
-main.pdf:main.tex /home/bibaijin/share/format/xetex.tex
+main.pdf:main.tex /home/bibaijin/.config/LaTeX/xelatex.ltx
 	xelatex main.tex
 	biber -l zh__pinyin main
 	#xelatex main.tex
